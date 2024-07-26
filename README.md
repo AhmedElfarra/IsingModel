@@ -7,7 +7,7 @@ This project implements a Markov Chain Monte Carlo (MCMC) simulation of the Isin
 
 ## Project Structure
 
-IsingModelMCMC/
+IsingModel/
 ```
 ├── data/ # Directory for simulation output data
 ├── include/ # Header files for the project
@@ -19,7 +19,7 @@ IsingModelMCMC/
 │   ├── MCMC.cpp # Implementation of the MCMC simulation class
 │   └── DataOutput.cpp # Implementation of the data output class
 ├── obj/ # Directory for compiled object files (generated automatically)
-├── python/ # Directory for Python scripts and virtual environment
+├── graphs/ # Directory for Python scripts and virtual environment
 │   ├── plot_ising_model.py # Python script for plotting simulation data
 │   ├── requirements.txt # Python dependencies
 │   └── venv/ # Virtual environment directory (generated automatically)
