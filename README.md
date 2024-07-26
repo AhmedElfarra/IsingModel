@@ -51,7 +51,7 @@ This project is one of my first coding projects. It was challenging yet rewardin
 
    ```bash
    git clone <repository_url>
-   cd IsingModelMCMC
+   cd IsingModel
    ```
 
 2. **Ensure SFML is installed**
